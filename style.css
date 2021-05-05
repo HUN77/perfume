@@ -38,4 +38,7 @@ ol{
     }
     h1{
     border-bottom: none;}
+    body{
+        border-bottom: none;
+    }
 }
